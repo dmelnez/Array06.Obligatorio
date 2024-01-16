@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\bin\Debug\net6.0\Array06DMN.exe
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\bin\Debug\net6.0\Array06DMN.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\bin\Debug\net6.0\Array06DMN.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\bin\Debug\net6.0\Array06DMN.dll
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\bin\Debug\net6.0\Array06DMN.pdb
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.dll
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\refint\Array06DMN.dll
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.pdb
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\Array06DMN.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Array06DMN\Array06DMN\obj\Debug\net6.0\ref\Array06DMN.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Array06DMN/1.0.0": {
+        "runtime": {
+          "Array06DMN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array06DMN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
